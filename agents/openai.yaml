@@ -1,0 +1,3 @@
+interface:
+  display_name: "WeChat Apple Scheduler"
+  short_description: "把微信聊天和图片转成 Apple 日历与提醒事项，并保留图片附件"
